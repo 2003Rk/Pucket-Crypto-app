@@ -1,0 +1,49 @@
+name: cryptoapp
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_svg: ^2.0.10+1
+  camera: ^0.11.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/linegroup.png
+    - assets/pucketlogo.png
+    - assets/onboarding.png
+    - assets/Face ID.svg
+    - assets/Touch ID.svg
+    - assets/photoid.png
+    - assets/location.png
+    - assets/facial.png
+    - assets/IDCARD.png
+    - assets/passport.png
+    - assets/DL.png
+    - assets/Passportheader.png
+    - assets/pass.png
+    - assets/verified.png
+    - assets/dp.png
+    - assets/pucket.png
+    - assets/Scan QR.png
+    - assets/nigeria.png
+    - assets/canada.png
+    - assets/card copy.png
+    - assets/qr-code 3.png
+    - assets/western.png
+    - assets/paypal.png
+    - assets/payfast.png
