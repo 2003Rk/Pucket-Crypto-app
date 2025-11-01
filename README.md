@@ -68,19 +68,23 @@ CryptoApp is designed for both beginners and experienced traders, combining **wa
 
 ---
 
-## 📱 Screenshots  
+## Screenshots 📸
 
-> *(Add your app screenshots here once available)*  
+Here’s a glimpse of the  app in action:
 
-You can display multiple screenshots like this:  
+<table align="center">
+  <tr>
+    <td><img src="https://drive.google.com/file/d/13exSigqPFjtmqRUwEUQkS0i3SjmsfEaQ/view?usp=sharing" width="200" height="500"/>
+</td>
+    <td width="50"></td> <!-- This adds spacing -->
+    <td><img src="https://drive.google.com/file/d/1dE8umzNbBeBMGhxq-YHt5LiUehAqVBVY/view?usp=sharing" width="200" height="500"/>
+</td>
+    <td width="50"></td> <!-- This adds spacing -->
+    
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://drive.google.com/file/d/1dE8umzNbBeBMGhxq-YHt5LiUehAqVBVY/view?usp=sharing" width="230"/>
-  <img src="https://drive.google.com/file/d/13exSigqPFjtmqRUwEUQkS0i3SjmsfEaQ/view?usp=sharing" width="230"/>
-  
-</p>
 
----
 
 ## ⚙️ Installation  
 
