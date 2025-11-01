@@ -85,10 +85,3 @@ Here’s a glimpse of the app in action:
 </table>
 
 
-
-## ⚙️ Installation  
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/yourusername/cryptoapp.git
-   cd cryptoapp
