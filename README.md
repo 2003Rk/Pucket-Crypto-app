@@ -70,17 +70,17 @@ CryptoApp is designed for both beginners and experienced traders, combining **wa
 
 ## Screenshots 📸
 
-Here’s a glimpse of the  app in action:
+Here’s a glimpse of the app in action:
 
 <table align="center">
   <tr>
-    <td><img src="https://drive.google.com/file/d/13exSigqPFjtmqRUwEUQkS0i3SjmsfEaQ/view?usp=sharing" width="200" height="500"/>
-</td>
-    <td width="50"></td> <!-- This adds spacing -->
-    <td><img src="https://drive.google.com/file/d/1dE8umzNbBeBMGhxq-YHt5LiUehAqVBVY/view?usp=sharing" width="200" height="500"/>
-</td>
-    <td width="50"></td> <!-- This adds spacing -->
-    
+    <td>
+      <img src="https://drive.google.com/uc?export=view&id=13exSigqPFjtmqRUwEUQkS0i3SjmsfEaQ" width="200" height="500"/>
+    </td>
+    <td width="50"></td>
+    <td>
+      <img src="https://drive.google.com/uc?export=view&id=1dE8umzNbBeBMGhxq-YHt5LiUehAqVBVY" width="200" height="500"/>
+    </td>
   </tr>
 </table>
 
